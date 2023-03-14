@@ -5,6 +5,6 @@
 I' m Grzegorz Boroń, i do content on design and development. I really enjoy larning languages and framewroks like Java and Spring Boot, as well as Pyhton
 
 Skills: JAVA / SPRING-BOOT/ SWING / SQL / D365
-I' m Grzegorz Boroń, i do content on design and development. I really enjoy larning languages and framewroks like Java and Spring Boot, as well as Pyhton
+
 
 
